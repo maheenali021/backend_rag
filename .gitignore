@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.pytest_cache/
+rag_agent/.pytest_cache/
+rag_pipeline/.pytest_cache/
+*.log
+app.log
+rag_pipeline.log
