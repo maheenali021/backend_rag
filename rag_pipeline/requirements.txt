@@ -1,0 +1,9 @@
+# RAG Pipeline Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+cohere>=4.9.0
+qdrant-client>=1.9.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+tqdm>=4.66.1
+lxml>=4.9.3
